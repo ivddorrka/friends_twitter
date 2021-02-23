@@ -9,6 +9,8 @@ Here is how the home page looks like:
 
 After user inputs data he'll be redirected either to the failure page (if there is a mistake) or to the map page with markers on it if there are any frineds for the given user
 
+## How do they look like
+
 failure page:
 
 ![Screenshot](img/failure_page.png)
