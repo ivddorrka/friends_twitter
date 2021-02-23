@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}WELCOME{% endblock%}
+{% block body %} 
+<h1>Find your friends now!</h1>
+<form action="/register/yakarta" method="post">
+    <p>
+        <input name="domain" placeholder="User name" type="text"/>
+        <input name="tocker" placeholder="Token" type='text'/>
+    </p>
+    <p><input class = clicker type="submit" value="Generate map"/></p>
+</form>
+{% endblock %}
