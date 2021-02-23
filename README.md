@@ -5,12 +5,12 @@ This project allows you to find friends' locations on the map according to the u
 ## Home page
 
 Here is how the home page looks like:
-![Screenshot](home_page.png)
+![Screenshot](img/page.png)
 
 After user inputs data he'll be redirected either to the failure page (if there is a mistake) or to the map page with markers on it if there are any frineds for the given user
 
-![Screenshot](failure_page.png)
-![Screenshot](result_page.png)
+![Screenshot](img/failure_page.png)
+![Screenshot](img/result_page.png)
 
 ## Modules
 
