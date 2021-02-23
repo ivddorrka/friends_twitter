@@ -17,7 +17,7 @@ failure page:
 
 and result page:
 
-![Screenshot](img/result_page.png)
+![Screenshot](img/result_map.png)
 
 ## Modules
 
